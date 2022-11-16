@@ -1,0 +1,12 @@
+li {
+  list-style-type: none;
+  margin-right: 30px;
+}
+a {
+  text-decoration: none;
+}
+
+body {
+  text-align: center;
+  background: #f8e8a6;
+}
